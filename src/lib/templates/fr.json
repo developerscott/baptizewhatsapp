@@ -1,0 +1,21 @@
+{
+  "welcome_fields": "Bonjour ! Merci d'inscrire votre église auprès de Baptize The World.\nVeuillez répondre en un seul message avec :\n1. Votre nom\n2. Votre rôle dans l'église\n3. Le nom de l'église\n4. La ville et le pays\n5. E-mail (facultatif)\n6. OUI pour accepter que nous vous écrivions sur WhatsApp et conservions ces informations\nRépondez ARRÊT à tout moment pour ne plus recevoir de messages.",
+  "missing_fields": "Merci ! Il nous manque encore :\n{missing}",
+  "submitted_thanks": "Merci, {name} ! {church} est inscrite. Notre équipe l'examine en ce moment et vous écrira bientôt ici avec des ressources pour votre célébration de baptêmes.",
+  "approved": "Bonne nouvelle, {name} ! {church} est approuvée pour Baptize The World. Vos visuels, musiques, scripts et vidéos sont ici : {resources_link}\nQuand vous baptisez, envoyez simplement le nombre ici, par exemple « 14 baptêmes ».",
+  "report_date_question": "Merci ! Ces {count} baptêmes ont-ils eu lieu aujourd'hui ou à une autre date ?",
+  "report_saved": "Gloire à Dieu ! Nous avons enregistré {count} baptêmes pour {church} le {date}.",
+  "ask_for_number": "Merci pour ce partage ! Combien de personnes ont été baptisées ? Veuillez envoyer uniquement le nombre.",
+  "help_registered": "Pour signaler des baptêmes, envoyez le nombre, par exemple « 14 baptêmes ».",
+  "not_registered": "Bonjour ! Votre église n'est pas encore inscrite auprès de Baptize The World, nous ne pouvons donc pas compter ceci. Répondez INSCRIPTION pour vous inscrire en un seul message.",
+  "send_as_text": "Veuillez envoyer votre réponse sous forme de message texte.",
+  "stopped": "Vous ne recevrez plus de messages de Baptize The World. Répondez COMMENCER pour revenir.",
+  "welcome_back": "Bon retour ! Vous recevrez à nouveau les messages de Baptize The World.",
+  "fields": {
+    "name": "Votre nom",
+    "role": "Votre rôle dans l'église",
+    "church_name": "Le nom de l'église",
+    "location": "La ville et le pays",
+    "consent": "OUI pour accepter que nous vous écrivions et conservions ces informations"
+  }
+}

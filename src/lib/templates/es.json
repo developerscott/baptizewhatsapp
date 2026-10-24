@@ -1,0 +1,21 @@
+{
+  "welcome_fields": "¡Hola! Gracias por registrar tu iglesia con Baptize The World.\nPor favor responde en un solo mensaje con:\n1. Tu nombre\n2. Tu cargo en la iglesia\n3. Nombre de la iglesia\n4. Ciudad y país\n5. Correo electrónico (opcional)\n6. SÍ para aceptar que te escribamos por WhatsApp y guardemos estos datos\nResponde PARAR en cualquier momento para dejar de recibir mensajes.",
+  "missing_fields": "¡Gracias! Todavía necesitamos:\n{missing}",
+  "submitted_thanks": "¡Gracias, {name}! {church} está registrada. Nuestro equipo la está revisando y pronto te escribirá por aquí con recursos para tu celebración de bautismos.",
+  "approved": "¡Buenas noticias, {name}! {church} fue aprobada para Baptize The World. Tus gráficos, música, guiones y videos están aquí: {resources_link}\nCuando bautices, solo envía el número aquí, por ejemplo \"14 bautismos\".",
+  "report_date_question": "¡Gracias! ¿Estos {count} bautismos fueron hoy o en otra fecha?",
+  "report_saved": "¡Gloria a Dios! Registramos {count} bautismos para {church} el {date}.",
+  "ask_for_number": "¡Gracias por compartir! ¿Cuántas personas fueron bautizadas? Por favor envía solo el número.",
+  "help_registered": "Para reportar bautismos, envía el número, por ejemplo \"14 bautismos\".",
+  "not_registered": "¡Hola! Tu iglesia todavía no está registrada con Baptize The World, así que no podemos contar esto. Responde REGISTRAR para inscribirte en un solo mensaje.",
+  "send_as_text": "Por favor envía tu respuesta como mensaje de texto.",
+  "stopped": "Ya no recibirás más mensajes de Baptize The World. Responde INICIAR para volver a unirte.",
+  "welcome_back": "¡Bienvenido de nuevo! Volverás a recibir mensajes de Baptize The World.",
+  "fields": {
+    "name": "Tu nombre",
+    "role": "Tu cargo en la iglesia",
+    "church_name": "Nombre de la iglesia",
+    "location": "Ciudad y país",
+    "consent": "SÍ para aceptar que te escribamos y guardemos estos datos"
+  }
+}
