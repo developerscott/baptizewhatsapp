@@ -1,0 +1,21 @@
+{
+  "welcome_fields": "Hi! Thanks for registering your church with Baptize The World.\nPlease reply in one message with:\n1. Your name\n2. Your role at the church\n3. Church name\n4. City and country\n5. Email (optional)\n6. YES to agree we can message you on WhatsApp and store these details\nReply STOP anytime to stop messages.",
+  "missing_fields": "Thank you! We still need:\n{missing}",
+  "submitted_thanks": "Thank you, {name}! {church} is registered. Our team is reviewing it now and will message you here soon with resources for your baptism celebration.",
+  "approved": "Great news, {name}! {church} is approved for Baptize The World. Your graphics, music, scripts and videos are here: {resources_link}\nWhen you baptize, just text the number here, like \"14 baptisms\".",
+  "report_date_question": "Thank you! Were these {count} baptisms today, or on another date?",
+  "report_saved": "Praise God! We recorded {count} baptisms for {church} on {date}.",
+  "ask_for_number": "Thank you for sharing! How many people were baptized? Please send just the number.",
+  "help_registered": "To report baptisms, send the number, like \"14 baptisms\".",
+  "not_registered": "Hi! Your church isn't registered with Baptize The World yet, so we can't count this. Reply REGISTER to sign up in one message.",
+  "send_as_text": "Please send your answer as a text message.",
+  "stopped": "You won't receive more messages from Baptize The World. Reply START to join again.",
+  "welcome_back": "Welcome back! You'll receive messages from Baptize The World again.",
+  "fields": {
+    "name": "Your name",
+    "role": "Your role at the church",
+    "church_name": "Church name",
+    "location": "City and country",
+    "consent": "YES to agree we can message you and store these details"
+  }
+}
